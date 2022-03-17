@@ -43,7 +43,7 @@ def close():
     plt.clf()
 
 #Making the initial List:
-for i in range(100):
+for i in range(500):
     list.append(i)
 random.shuffle(list)
 #*/
